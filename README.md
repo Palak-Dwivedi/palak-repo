@@ -1,4 +1,4 @@
 # palak-repo
 This is my first git repositary
 <br>
-author-palak dwivedi
+author-palak kushwaha
